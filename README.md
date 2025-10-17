@@ -1,7 +1,7 @@
 # 🏠 Bengaluru Home Price Prediction
 
 An end-to-end **Machine Learning project** to predict house prices in **Bengaluru, India**, using regression models.  
-Based on the Codebasics Data Science tutorial — this notebook demonstrates the full workflow from **data cleaning to deployment**.
+This notebook demonstrates the full workflow from **data cleaning to deployment**.
 
 ---
 
